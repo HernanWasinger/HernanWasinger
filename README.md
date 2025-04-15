@@ -13,11 +13,12 @@
 
 Aquí tienes algunas de las herramientas y tecnologías con las que me encanta trabajar:
 
-- **ERP**: Odoo   
-- **Desarrollo Frontend**: HTML, CSS, JavaScript
+- **ERP**:    
+- **Desarrollo Frontend**: Html, CSS
+- **Desarrollo Backend**: Python, JavaScript
 - **Bases de Datos**: SQL
 - **Control de Versiones**: Git, GitHub  
-- **Otros**: Python
+
 
 ## Proyectos Destacados
 
